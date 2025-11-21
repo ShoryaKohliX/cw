@@ -353,7 +353,8 @@ ol li{
 
 form{
     display:flex;
-    justify-content: cn;
+    justify-content: center;
     align-items: center;
 }
+
 
